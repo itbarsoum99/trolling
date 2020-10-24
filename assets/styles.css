@@ -12,6 +12,7 @@ body {
   background-color: #333335;
   color:#EDD2A3;
   font-family: 'Roboto Slab', sans-serif;
+  overflow-x: wrap;
 }
 
 
@@ -31,6 +32,18 @@ td {
   border: 3px solid #EDD2A3;
   border-top: transparent;
   border-bottom: transparent;
+}
+
+@media (pointer: coarse) {
+  td, .left, .right {
+    width: 90%;
+  }
+}
+
+@media (max-width: 850px) {
+  td, .left, .right {
+    width: 90%;
+  }
 }
 
 table {
@@ -122,6 +135,7 @@ header::before, header::after {
   transition: 0.6s;
   border: 2px solid #0EB7DA;
   padding: 1vh;
+  margin: auto;
 }
 
 h2 {
