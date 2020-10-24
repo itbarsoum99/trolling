@@ -124,6 +124,9 @@ th {
     padding-top: 0vh;
     padding-bottom: 0vh;
   }
+  h2 {
+    font-size: 70px;
+  }
 }
 
 @media (max-width: 850px) {
