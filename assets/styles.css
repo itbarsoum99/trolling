@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
 
 
 body {
@@ -11,7 +9,7 @@ body {
   display: block;
   background-color: #333335;
   color:#EDD2A3;
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   overflow-x: wrap;
 }
 
