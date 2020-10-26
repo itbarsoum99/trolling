@@ -157,6 +157,7 @@ th {
   }
 }
 
+
 @media only screen and (max-width: 1200px) {
   #content table,
   #content thead,
@@ -192,6 +193,17 @@ th {
   }
 }
 
+@media (max-width: 550px) {
+  img {
+    width: 90vw;
+  }
+  h1 {
+    font-size: 12vw;
+  }
+}
+
+
+
 @media (prefers-color-scheme: light) {
   body {
     background-color: #dddddb;
@@ -199,9 +211,12 @@ th {
   }
 }
 
+
+
 @media (prefers-color-scheme: dark {
   body {
     background-color: #333335;
     color: #eee;
   }
 }
+
