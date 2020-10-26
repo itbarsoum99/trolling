@@ -132,10 +132,16 @@ th {
     left: -9999px;
   }
   .right {
-    border: 3px solid red;
+    border: 6px solid red;
   }
   .left {
-    border: 3px solid #73B1B7;
+    border: 6px solid #73B1B7;
+  }
+  .draw {
+    border-left: 6px solid #73B1B7;
+    border-top: 6px solid #73B1B7;
+    border-right: 6px solid red;
+    border-bottom: 6px solid red;
   }
   #content td {
     border: none;
