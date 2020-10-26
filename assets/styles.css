@@ -80,6 +80,7 @@ h1 {
 .draw {
   transition: 0.6s;
   border: 2px solid #0EB7DA;
+  border-radius: 27px;
   padding: 1vh;
   margin: auto;
 }
