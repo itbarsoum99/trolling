@@ -96,6 +96,7 @@ h1 {
  
 ::-webkit-scrollbar-thumb {
   background: #888; 
+  border-radius: 40px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
