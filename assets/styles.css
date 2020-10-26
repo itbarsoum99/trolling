@@ -16,6 +16,7 @@ body {
 
 
 
+
 img {
   margin: auto;
   width: 500px;
@@ -28,9 +29,6 @@ thead img {
   border-radius: 0px;
 }
 
-#top {
-  z-index: 8;
-}
 
 #doi {
   padding-top: 1vh;
@@ -159,7 +157,7 @@ th {
   }
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 1200px) {
   #content table,
   #content thead,
   #content tbody,
