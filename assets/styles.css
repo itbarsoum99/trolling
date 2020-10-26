@@ -109,11 +109,6 @@ th {
     top: -9999px;
     left: -9999px;
   }
-  #www {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-  }
   #content td {
     border: none;
     position: relative;
@@ -153,11 +148,6 @@ th {
     display: block;
   }
   #content thead tr {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-  }
-  #www {
     position: absolute;
     top: -9999px;
     left: -9999px;
