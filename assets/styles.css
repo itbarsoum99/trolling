@@ -24,7 +24,9 @@ img {
   border-radius: 27px;
 }
 
-
+thead img {
+  border-radius: 0px;
+}
 
 #top {
   z-index: 8;
