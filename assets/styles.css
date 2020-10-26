@@ -8,7 +8,8 @@ body {
   margin: 5%;
   display: block;
   background-color: #333335;
-  color:#EDD2A3;
+  /*color:#EDD2A3;*/
+  color: #ccc;
   font-family: 'Source Sans Pro', sans-serif;
   overflow-x: wrap;
 }
@@ -34,7 +35,7 @@ img {
 }
 
 td {
-  border: 3px solid #EDD2A3;
+  border: 3px solid #ccc;
   border-top: transparent;
   border-bottom: transparent;
 }
