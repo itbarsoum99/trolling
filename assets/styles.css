@@ -85,6 +85,22 @@ h1 {
   margin: auto;
 }
 
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #bbb; 
+}
+
 h2 {
   padding-top: 0.5vh;
   margin-bottom: 10px !important;
